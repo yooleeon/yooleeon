@@ -1,0 +1,102 @@
+* {
+	font-family: "Georgia", Times, serif;
+	color: #000000;
+	text-align: center;
+}
+
+body {
+	width: 960px;
+	margin: 0 auto;
+	background-color: #ffffea;
+}
+
+nav{ 
+	background-color:#E3FAD7;
+	padding: 10px;
+	margin: 10px;
+}
+
+nav ul li{
+	display: inline;
+	padding: 5px;
+}
+
+section {
+overflow: auto;
+height: 100%;
+}
+
+main{
+	background-color:#f5ecdf;
+	padding: 10px;
+	margin: 10px;
+	font-size: 18px;
+}
+
+article {
+	background-color:#f5ecdf;
+	padding: 10px;
+	margin: 10px;
+}
+
+
+.experiencemain{
+	background-color:#dae3e0;
+}
+
+
+.classtaken{
+	background-color:#dae3e0;
+	padding: 10px;
+	margin: 10px;
+	width: 280px;
+	float: left;
+}
+
+.bbwimage{
+	background-color:#dae3e0;
+	padding: 10px;
+	margin: 10px;
+	width: 280px;
+	float: left;
+}
+
+
+.notes{
+	font-size: 18px;
+	text-align: left;
+	background-color:#dae3e0;
+	padding: 10px;
+	margin: 10px;
+	width: 280px;
+	float: left;
+}
+
+
+.titletips {
+	background-color:#f5ecdf;
+	padding: 10px;
+	margin: 10px;
+}
+
+.camp {
+ 	background-color: #ffffea;
+ }
+
+.pinktips{
+
+	background-color:lightpink;
+}
+
+.connect{
+	background-color:lightpink;
+
+}
+footer {
+	background-color:#E3FAD7;
+	padding: 10px;
+	margin: 10px;
+}
+
+
+
